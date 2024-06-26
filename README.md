@@ -6,3 +6,6 @@
 
 #### 微信
 ![微信](https://obs202211121201.obs.cn-north-4.myhuaweicloud.com/wechatpay.png)
+
+#### 微信赞赏码
+![微信赞赏码](https://obs202211121201.obs.cn-north-4.myhuaweicloud.com/WechatSponsored.jpg)
